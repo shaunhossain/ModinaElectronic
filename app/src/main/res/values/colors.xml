@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="background">#75131314</color>
+    <color name="poster">#5E25E9BA</color>
+    <color name="buttonDashboard">#F2994A</color>
+    <color name="floatingButton">#C32DDB</color>
+    <color name="postertextColor">#E13C78</color>
+    <color name="white">#FFFFFF</color>
+</resources>
